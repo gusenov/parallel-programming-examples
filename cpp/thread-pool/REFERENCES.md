@@ -1,0 +1,1 @@
+- [std::condition_variable - cppreference.com](https://en.cppreference.com/w/cpp/thread/condition_variable)
