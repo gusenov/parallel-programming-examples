@@ -21,3 +21,5 @@
 # [Marl](marl)
 
 - [Hello, World!](marl/example)
+- [Главный поток не выполняет как рабочий запланированные задачи](marl/main-thread-is-not-a-worker)
+
